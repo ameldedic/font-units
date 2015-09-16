@@ -1,0 +1,20 @@
+body {
+    font-size: 100%;
+    background-color: cornsilk; 
+}
+
+#one {
+    font-size: 4em;
+}
+
+#two {
+    font-size: 3em;
+}
+
+#three {
+    font-size: 2em;
+}
+
+#four {
+    font-size: 1em;
+}
